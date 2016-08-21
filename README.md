@@ -12,11 +12,14 @@ Swift
 •	Techbologies: Swift 2, Xcode, third party framework
 
 ## Editing user information
-![addinfo](https://cl.ly/h80T/addinfo.gif)
+<img src="https://cl.ly/h80T/addinfo.gif" width="400">
 ## Adding/Deleteing classes
 ### Adding
-![addclass](https://cl.ly/h80T/addinfo.gif)
+<img src="https://cl.ly/h80T/addinfo.gif" width="400">
 ### Deleting
-![addclass](https://cl.ly/h868/delet.gif)
+
+<img src="https://cl.ly/h868/delet.gif" width="400">
 ## Charts
-![charts](https://cl.ly/h8dn/chart.png)
+<img src="https://cl.ly/h8dn/chart.png" width="300">
+
+[Application uses ios-charts library by Daniel Cohen Gindi](https://github.com/danielgindi/Charts)
