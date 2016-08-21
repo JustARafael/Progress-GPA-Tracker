@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G31" minimumToolsVersion="Xcode 7.0">
+    <entity name="UserInfo" syncable="YES">
+        <attribute name="areaOfStudy_Data" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UserInfo" positionX="-45" positionY="0" width="128" height="60"/>
+    </elements>
+</model>

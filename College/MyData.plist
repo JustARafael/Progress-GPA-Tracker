@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirstNameKey</key>
+	<string></string>
+	<key>LastNameKey</key>
+	<string></string>
+	<key>IDNumberKey</key>
+	<string></string>
+	<key>DateofBirthKey</key>
+	<date>2100-08-04T04:38:10Z</date>
+	<key>DOB_StringKey</key>
+	<string></string>
+	<key>TotalCreditstoGraduateKey</key>
+	<integer>0</integer>
+	<key>GenderKey</key>
+	<integer>0</integer>
+	<key>MajorSelectedRowKey</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G31" minimumToolsVersion="Xcode 7.0">
+    <entity name="Info_data" syncable="YES">
+        <attribute name="area_of_study" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cumulative_gpa" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="current_credits" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="date_of_birth" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="first_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="last_name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Info_data" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
