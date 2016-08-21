@@ -18,5 +18,5 @@ Swift
 ![addclass](https://cl.ly/h80T/addinfo.gif)
 ### Deleting
 ![addclass](https://cl.ly/h868/delet.gif)
-### Charts after adding classes
+### Charts
 ![charts](https://cl.ly/h8dn/chart.png)
