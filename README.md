@@ -12,4 +12,4 @@ Swift
 •	Techbologies: Swift 2, Xcode, third party framework
 
 ### Adding user information
-![1](https://cl.ly/h8He/Screen%20Recording%202016-08-20%20at%2011.40%20PM.gif)
+![1](https://cl.ly/h8He)
