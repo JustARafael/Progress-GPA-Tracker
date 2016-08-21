@@ -14,7 +14,7 @@ Swift
 ## Editing user information
 <img src="https://cl.ly/h80T/addinfo.gif" width="400">
 
-Information is stored in **.plist** file managed through [PlistManager.swift](http://rebeloper.com/read-write-plist-file-swift/)  by SANDOR NAGY
+Information is stored in **.plist** file which is managed through [PlistManager.swift](http://rebeloper.com/read-write-plist-file-swift/)  by SANDOR NAGY
 ## Adding/Deleteing classes
 ### Adding
 <img src="https://cl.ly/h80T/addinfo.gif" width="400">
