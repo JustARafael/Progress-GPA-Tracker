@@ -22,6 +22,6 @@ Information is stored in **.plist** file managed through [PlistManager.swift](ht
 
 <img src="https://cl.ly/h868/delet.gif" width="400">
 ## Charts
-<img src="https://cl.ly/h8dn/chart.png" width="300">
+<img src="https://cl.ly/h8dn/chart.png" width="400">
 
 Application uses [ios-charts library](https://github.com/danielgindi/Charts) by Daniel Cohen Gindi
