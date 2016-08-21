@@ -15,12 +15,10 @@ Swift
 <img src="https://cl.ly/h80T/addinfo.gif" width="400">
 
 Information is stored in **.plist** file which is managed through [PlistManager.swift](http://rebeloper.com/read-write-plist-file-swift/)  by SANDOR NAGY
-## Adding/Deleteing classes
-### Adding
-<img src="https://cl.ly/h80T/addinfo.gif" width="400">
-### Deleting
-
-<img src="https://cl.ly/h868/delet.gif" width="400">
+## Adding/Deleting classes
+### Adding(Left) | Deleting(Right)
+<img src="https://cl.ly/h80T/addinfo.gif" width="350">
+<img src="https://cl.ly/h868/delet.gif" width="350">
 ## Charts
 <img src="https://cl.ly/h8dn/chart.png" width="400">
 
