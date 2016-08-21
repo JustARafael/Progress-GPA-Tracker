@@ -14,6 +14,9 @@ Swift
 ## Adding user information
 ![addinfo](https://cl.ly/h80T/addinfo.gif)
 ## Adding/Deleteing classes
+### Adding
 ![addclass](https://cl.ly/h80T/addinfo.gif)
+### Deleting
+![addclass](https://cl.ly/h868/delet.gif)
 ### Charts after adding classes
 ![charts](https://cl.ly/h8dn/chart.png)
