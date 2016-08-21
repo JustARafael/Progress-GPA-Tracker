@@ -13,6 +13,8 @@ Swift
 
 ## Editing user information
 <img src="https://cl.ly/h80T/addinfo.gif" width="400">
+
+Information is stored in **.plist** file managed through [PlistManager.swift](http://rebeloper.com/read-write-plist-file-swift/)  by SANDOR NAGY
 ## Adding/Deleteing classes
 ### Adding
 <img src="https://cl.ly/h80T/addinfo.gif" width="400">
@@ -22,4 +24,4 @@ Swift
 ## Charts
 <img src="https://cl.ly/h8dn/chart.png" width="300">
 
-[Application uses ios-charts library by Daniel Cohen Gindi](https://github.com/danielgindi/Charts)
+Application uses [ios-charts library](https://github.com/danielgindi/Charts) by Daniel Cohen Gindi
