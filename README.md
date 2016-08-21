@@ -12,6 +12,8 @@ Swift
 •	Techbologies: Swift 2, Xcode, third party framework
 
 ## Adding user information
-![addinfo](https://cl.ly/h80T/addinfo.gif =100x20)
-## Adding classes
-## Deleteing classes
+![addinfo](https://cl.ly/h80T/addinfo.gif)
+## Adding/Deleteing classes
+![addclass](https://cl.ly/h80T/addinfo.gif)
+### Charts after adding classes
+![charts](https://cl.ly/h8dn/chart.png)
