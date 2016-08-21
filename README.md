@@ -12,4 +12,4 @@ Swift
 •	Techbologies: Swift 2, Xcode, third party framework
 
 ### Adding user information
-![addinfo](https://d3vv6lp55qjaqc.cloudfront.net/items/2E0Y3f3140360U1U2H42/addinfo.gif)
+![addinfo](https://cl.ly/h8EW/addinfo.gif)
