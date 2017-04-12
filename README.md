@@ -1,5 +1,4 @@
 # Progress GPA Tracker
-Swift
 
 ## iOS App using third party framework
 
