@@ -1,6 +1,5 @@
 # Progress GPA Tracker
-
-## iOS App using third party framework
+• iOS App using third party frameworks
 
 •	Progress tracks overall GPA and annual GPA
 
