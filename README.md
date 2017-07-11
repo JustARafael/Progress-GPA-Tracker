@@ -15,8 +15,7 @@
 Information is stored in **.plist** file which is managed through [PlistManager.swift](http://rebeloper.com/read-write-plist-file-swift/)  by SANDOR NAGY
 ## Adding/Deleting classes
 ### Adding(Left) | Deleting(Right)
-<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2M2Z3O3O001A3Z3K0s3Y/addclasses.gif" width="350">
-<img src="https://cl.ly/h868/delet.gif" width="350">
+<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2M2Z3O3O001A3Z3K0s3Y/addclasses.gif" width="350"><img src="https://cl.ly/h868/delet.gif" width="350">
 ## Charts
 <img src="https://cl.ly/h8dn/chart.png" width="400">
 
