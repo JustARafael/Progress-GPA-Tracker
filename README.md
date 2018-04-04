@@ -1,6 +1,6 @@
 # Progress GPA Tracker
 
-## GPA and Course Progress Tracker for iPhone 
+## Self studying Swift 2, Summer 2016
 • iOS App using third party frameworks
 
 •	Progress tracks overall GPA and annual GPA
